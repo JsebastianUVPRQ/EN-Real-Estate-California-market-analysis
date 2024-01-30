@@ -4,7 +4,7 @@ Welcome,  California Housing Prices Prediction project, an end-to-end machine le
 from the StatLib repository, which is based on data from the 1990 California census. Despite its age, this dataset offers valuable insights and serves as an excellent 
 resource for learning. Additionally, we have introduced a categorical attribute and made some feature adjustments to tailor it to our specific goals.
 
-- Project Overview
+**Project Overview**
 The project follows a systematic approach with the following key steps:
 
 - Look at the Big Picture:
