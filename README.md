@@ -32,7 +32,7 @@ Communicate the findings, insights, and the developed model's performance. Visua
 Implement the model into a functional system, monitor its performance, and establish a maintenance plan for sustained accuracy and relevance.
 
 ## Usage
-To replicate or contribute to this project, follow these general steps:
+To replicate this project, follow these general steps:
 
 1. Clone the Repository:
    ```bash
